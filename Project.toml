@@ -1,7 +1,7 @@
 name = "FFTDists"
 uuid = "872ebf62-bb8d-4945-b244-254eba715075"
 authors = ["itsdfish"]
-version = "0.1.4"
+version = "0.1.5"
 
 [deps]
 Dierckx = "39dd38d3-220a-591b-8e3c-4c3a8c710a94"
